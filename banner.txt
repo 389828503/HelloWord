@@ -1,0 +1,1 @@
+http://127.0.0.1:8081/user/registerUser?request={'requestId':'xsdsf2'}&loginCode='sss'&userName='zzz'&orgId=''&baseinfoMobilephone='2222222'
