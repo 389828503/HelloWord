@@ -21,6 +21,8 @@ public class RenrenApplicationTests {
 		user.setEmail("qqq@qq.com");
 		redisUtils.set("user", user);
         /////////////xxxxxxxxxxxxxxxxxxxx111111111111111
+		
+		//2222222222222222222
 		System.out.println(ToStringBuilder.reflectionToString(redisUtils.get("user", SysUserEntity.class)));
 	}
 
